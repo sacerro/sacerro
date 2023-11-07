@@ -1,8 +1,6 @@
-Hi 👋 My name is Santiago Cerro
-===============================
+# Hi 👋 My name is Santiago Cerro
 
-Full Stack Developer
---------------------
+## Full Stack Developer
 
 From a very young age, I knew that I liked “this computer stuff.” Now that I am older, languages ​​such as PHP, Java, JavaScript, TypeScript, Python, C#, Visual Basic, Go, C++... have accompanied me throughout my professional career (and those that remain to be discovered!). Fan of new technologies, music, photography, baking, robotics and, of course, WordPress.
 
