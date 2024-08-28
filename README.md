@@ -1,13 +1,17 @@
 # Hi 👋 My name is Santiago Cerro
 
-## Full Stack Developer
+## Full Stack Developer & Cybersecurity Consultant
 
-From a very young age, I knew that I liked “this computer stuff.” Now that I am older, languages ​​such as PHP, Java, JavaScript, TypeScript, Python, C#, Visual Basic, Go, C++... have accompanied me throughout my professional career (and those that remain to be discovered!). Fan of new technologies, music, photography, baking, robotics and, of course, WordPress.
+From an early age, I had a passion for "all things computers." Over the years, I've honed my skills in languages like PHP, Java, JavaScript, TypeScript, Python, C#, Visual Basic, Go, and C++, with many more yet to explore. Beyond coding, I'm a fan of new technologies, music, photography, baking, robotics, and, of course, WordPress.
+
+While working at a bank, I encountered code upload restrictions unrelated to best practices, sparking my interest in cybersecurity. Frustrated by the lack of cybersecurity culture in my country, I embarked on a self-taught journey, mastering techniques with guidance from MITRE and building a lab to test and mitigate attacks. This passion led me to further my education in cybersecurity at The Bridge Academy.
+
+Now, with a strong foundation in both programming and cybersecurity, I'm eager to contribute to companies, though opportunities in Spain are limited due to the emerging cybersecurity landscape. I believe my unique skill set can bring significant value to any organization.
 
 * 🌍  I'm based in Madrid
-* 🧠  I'm learning Cybersecurity
-* 🤝  I'm open to collaborating on WordPress, open source projects...
-* ⚡  I don't have a personal site
+* 🧑‍💻️  I'm working as Cybersecurity Technician and Software Engineer
+* 🤝  I'm collaborating on the WordPress Community, Meetups, WordCamp Madrid, and some open-source projects...
+* ⚡  My personal site is under maintenance since I bought the domain years ago (sorry)
 
 ### Skills
 
